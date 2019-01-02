@@ -3,7 +3,19 @@ O Vidya Academics Network é uma rede de docentes da FCFRP-USP formada pelas sua
 
 Os dados foram coletados dos currículos Lattes (Linhas de Pesquisa) e FAPESP (Palavras-chave), do Researcher ID (Colaborações) e do site da FCFRP-USP (Departamento). Há alguns dados faltantes na tabela da qual foi gerado o grafo/rede, uma vez que não estavam disponíveis*. 
 
-A rede foi desenvolvida a partir da teoria dos grafos, na qual representam-se elementos em nós (nodes) e suas conexões (edges). A organização e distribuição desse grafo foi realizada usando o software gratuito Gephi (https://gephi.org) e o algoritmo de clusterização Force-Atlas 2. É possível, também, visualizar a rede pelo software Cytoscape (https://cytoscape.org/), também gratuito e disponível para todos os OS. 
+A rede foi desenvolvida a partir da teoria dos grafos, na qual representam-se elementos em nós (nodes) e suas conexões (edges). A organização e distribuição desse grafo foi realizada usando o software gratuito Gephi (https://gephi.org) e o algoritmo de clusterização Force-Atlas 2. A visualização web foi desenvolvida pelo InteractiveVis, descrito no rodapé. É possível, também, visualizar a rede pelo software Cytoscape (https://cytoscape.org/), também gratuito e disponível para todos os OS. 
+
+*Quer adicionar mais dados sobre seu currículo? Envie um e-mail ao academicsvidya@gmail.com com a lista de itens.
+
+
+# Como acessar?
+
+1. Baixe todo o repositório em **"Clone or download"** no canto superior direito da caixa deste texto e selecione um diretório/pasta fácil de ser acessada no seu computador;
+2. Faça **unzip** do download;
+3. Abra o arquivo **"index.html"** no navegador **Mozilla Firefox** (a rede não abre no Google Chrome). Clique com o botão direito no arquivo > "abrir com..." > Mozilla Firefox.
+4. Pronto!
+
+# Tabela de relações
 
 
 # O projeto Vidya Academics 
@@ -12,7 +24,8 @@ O Vidya Academics é um projeto independente da Plataforma Vidya de projetos est
 - Vidya de Estagiário: entrevistas sobre a experiência de estágio dos alunos da faculdade;
 - Academics Network: rede de docentes da faculdade
 
-##É formado pelos membros: 
+#É formado pelos membros:
+--------------
 - Júlia Oliveira: Diretora e responsável pelo Vidya de Estagiário;
 - Júlia Darini: Vice-diretora e responsável pelo Vidya de Estagiário;
 - Wasim Syed: responsável pelo Vidya Vitae e pelo Academics Network e presidente do Vidya;
@@ -20,8 +33,8 @@ O Vidya Academics é um projeto independente da Plataforma Vidya de projetos est
 - Pedro Marques: responsável pelo Vidya de estagiário.
 
 
-*Quer adicionar mais dados sobre seu currículo? Envie um e-mail ao academicsvidya@gmail.com com a lista de itens.
 
+----------------------------------------
 Template provided by InteractiveVis project
 http://blogs.oii.ox.ac.uk/vis/
 https://github.com/oxfordinternetinstitute/InteractiveVis/
