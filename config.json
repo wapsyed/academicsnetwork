@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "sites.google.com/view/vidyadrive",
+    "text": "Wasim Syed"
+  },
+  "text": {
+    "more": "Network formado por todos os docentes da FCFRP-USP, com suas linhas de pesquisa, palavras-chave, colaborações internacionais e blocos. As informações foram extraídas de seus currículos FAPESP, Lattes e Web o Science.\nA autoria é de Wasim Syed, aluno da FCFRP-USP desde 2016, presidente do Vidya e membro do Vidya Academics. É também presidente da Liga de Ômicas, a qual fundou em 2018.",
+    "intro": "Network formado por todos os docentes da FCFRP-USP, com suas linhas de pesquisa, palavras-chave, colaborações internacionais e blocos.\nO grafo foi desenvolvido como um subprojeto do VIdya Academics, um projeto independente da plataforma de projetos estudantis Vidya, fundada em 2018. \nO Vidya Academics é um projeto de divulgação científica idealizado por Júlia Oliveira (Palmirinha), diretora do projeto, e Júlia Darini. \n",
+    "title": "Network"
+  },
+  "legend": {
+    "edgeLabel": "relações",
+    "colorLabel": "Tipo",
+    "nodeLabel": "docentes"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "type",
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": true,
+    "imageAttribute": "Label"
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
