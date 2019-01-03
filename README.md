@@ -10,6 +10,8 @@ A rede foi desenvolvida a partir da teoria dos grafos, na qual representam-se el
 
 # Como acessar?
 
+**Opção 1:** Acesse https://wapsyed.github.io/academicsnetwork/
+
 1. Baixe todo o repositório em **"Clone or download"** no canto superior direito da caixa deste texto e selecione um diretório/pasta fácil de ser acessada no seu computador;
 2. Faça **unzip** do download;
 3. Abra o arquivo **"index.html"** no navegador **Mozilla Firefox** (a rede não abre no Google Chrome). Clique com o botão direito no arquivo > "abrir com..." > Mozilla Firefox.
