@@ -10,7 +10,7 @@ A rede foi desenvolvida a partir da teoria dos grafos, na qual representam-se el
 
 # Como acessar?
 
-**Opção 1:** Acesse https://vidyaspp.github.io/academicsnetwork/
+**Opção 1:** Acesse https://wapsyed.github.io/academicsnetwork/
 
 **Opção 2:**:
 1. Baixe todo o repositório em **"Clone or download"** no canto superior direito da caixa deste texto e selecione um diretório/pasta fácil de ser acessada no seu computador;
